@@ -1,0 +1,7 @@
+- Best visual
+- Add speed animation
+- App configuration (seed, maze size, speed)
+- Option for user solver (arrows maybe)
+- 3D
+- Add other solving algorithms
+- Buttons options (change colors, resets, etc)
