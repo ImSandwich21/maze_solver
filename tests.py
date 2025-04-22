@@ -36,11 +36,7 @@ class Tests(unittest.TestCase):
         m1 = Maze(0, 0, num_rows, num_cols, 10, 10)
         for col in m1._cells:
             for cell in col:
-                self.assertEqual(
-                    cell.visited,
-                    False,
-                )
-
+                self.assertEqual(cell.visited,False,)
 
 if __name__ == "__main__":
     unittest.main()
